@@ -1,4 +1,4 @@
-Student at SETU Waterford '23 - '27
+Software Systems Development Student at SETU Waterford '23 - '27
 
 <!---
 darraghsetu/darraghsetu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
